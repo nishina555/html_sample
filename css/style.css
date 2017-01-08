@@ -1,0 +1,40 @@
+body {
+  background-color: #CCFF99;
+  width:900px;
+  margin:20px auto;
+}
+
+header {
+  color: #009966;
+  font-size: 25px;
+  margin-bottom: 20px
+}
+
+aside {
+  float: left;
+  width:180px;
+  background-color: #00CC99;
+  padding: 10px
+}
+
+aside li {
+  color: white
+}
+
+article {
+  float: right;
+  width:650px;
+  background-color: #FFFFFF;
+  padding: 20px
+}
+
+article .title {
+  border: solid 1px red;
+  color: #009966;
+  font-size: 17px;
+  padding: 10px;
+}
+
+section {
+  color: #888888
+}
