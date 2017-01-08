@@ -1,0 +1,11 @@
+ul {
+  display: -webkit-box;
+  display: -moz-box;
+  width: 80%;
+}
+
+li {
+  -webkit-box-flex: 1;
+  -moz-box-flex: 1;
+  width: 100px;
+}
